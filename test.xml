@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CRD>
+    <Application>
+        <CALL_TYPE value="OUTGOING"/>
+        <CARRIER_TRUNK Value="7002"/>
+        <DOD_GROUP Value="095"/>
+    </Application>
+    <Time>
+        <CDR_START_TIME Value=" 4-12-2021 15:38:09" />
+        <ALERT_TIME Value=" 4-12-2021 15:38:09" />
+        <ANSWER_TIME Value=" 4-12-2021 15:38:09" />
+        <HOLD_TIME Value=" 4-12-2021 15:38:09" />
+        <UNHOLD_TIME Value=" 4-12-2021 15:38:09" />
+        <CDR_END_TIME Value="4-12-2021 15:38:09" />
+    </Time>
+    <Number>
+        <CALLER_PARTY_NUMBER Value="20108" />
+        <CALL_TERMINATING_PARTY_NUMBER Value="20128" />
+        <DIALED_NUMBER Value="8798798797987"/>
+        <CALLED_PARTY_NUMBER Value="20112"/>
+    </Number>
+</CRD>
